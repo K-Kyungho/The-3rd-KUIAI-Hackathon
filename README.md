@@ -11,3 +11,5 @@
 ## Code
 [코드파일](https://github.com/ChoiDae1/The-3rd-KUIAI-Hackathon/tree/main/python_%EC%BD%94%EB%93%9C)
 
+## Link
+[수상 정보](https://beyondx.ai/%EA%B3%A0%EB%A0%A4%EB%8C%80-%EC%A0%9C3%ED%9A%8C-kuiai-%ED%95%B4%EC%BB%A4%ED%86%A4-%EA%B0%9C%EC%B5%9C/)
